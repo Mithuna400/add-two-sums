@@ -1,0 +1,11 @@
+\\ add two sums
+#include <stdio.h>
+int main()
+{
+ int a=40399;
+ int  b=50525;
+   printf("first edtion sold  is 550525\n second edition sold is 40399");
+   printf("\ntotal no of copies = ");
+   
+   printf("%d",a+b); 
+   return 0;
